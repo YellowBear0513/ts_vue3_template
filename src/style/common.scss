@@ -1,0 +1,100 @@
+
+$fontSize36: 36px;
+$fontSize24: 24px;
+$fontSize20: 20px;
+$fontSize18: 18px;
+$fontSize16: 16px;
+$fontSize14: 14px;
+
+$colorB1: #edf4ff;
+$colorB2: #99cbf9;
+$colorB3: #59aaf5;
+$colorB4: #1492ff;
+$colorB5: #0064c0;
+$colorB6: #003e78;
+
+$colorN1: #f7f8fa;
+$colorN2: #f2f3f5;
+$colorN3: #eee;
+$colorN4: #ddd;
+$colorN5: #ccc;
+$colorN6: #999;
+$colorN7: #666;
+$colorN8: #333;
+$colorBlack: #000;
+$colorWhite: #fff;
+$colorWhite5ED: #fff5ed;
+$rgbaWhite: rgba(255, 255, 255, 1);
+
+$colorG1: #f0faf2;
+$colorG3: #6dd993;
+$colorG4: #15be50;
+$colorR1: #ffebeb;
+$colorR3: #fc5c5c;
+$colorR4: #d40000;
+$colorQ1: #fff5ed;
+$colorQ3: #f1924e;
+$colorQ4: #ff6b00;
+$colorQ5: #DBDBDB;
+
+$colorB41: #2690f3;
+$colorB42: #006acd;
+$colorR41: #da2626;
+$colorR42: #b40000;
+$colorG41: #37c76a;
+$colorG42: #11a144;
+$colorO41: #ff8126;
+$colorO42: #d95b00;
+$colorNB1: #f4f5f5;
+$colorNB2: #eaeaea;
+
+$colorH1: #f5f5f5;
+$colorH2: #f5f5ff;
+$colorH3: #e6e6e6;
+$colorH4: #f1f1f1;
+$colorH6: #edf4fe;
+$colorH7: #a7a7a7;
+$colorH8: #c8c9cc;
+$colorH9: #528bfc;
+$colorH10: #222;
+$colorH11: #10f;
+$colorH12: #e5f3ff;
+$colorH13: #20a0ff;
+$colorH14: #0e9cff;
+$colorH15: #e5e9f2;
+$colorH16: #0e9cff33;
+$colorH17: #7c93ed;
+$colorH18: #6bbfe5;
+$colorH19: #3699f7;
+$colorH20: #fbe9ff;
+$colorH21: #cd5be8;
+$colorH22: #e5fdff;
+$colorH23: #2fd0d9;
+$colorH24: #f2f3f5ff;
+$colorH25: #ebf6ff;
+$colorH26: #d0e9ff;
+$colorH27: #333f;
+$colorH28: #cccf;
+$colorH29: #1492ffff;
+$colorH30: #9fcef7;
+$colorH31: #528cfc;
+$colorH32: #1989fa;
+$colorH33: #e70000;
+$colorH34: #ffe4d0;
+$colorH35: #e0f0ff;
+$colorH36: #e0d1ff;
+$colorH37: #e2ffec;
+$colorH38: #caedff;
+$colorH39: #7f4fe2;
+$colorH40: #29b4f9;
+$colorH41: #00000029;
+$colorH42: #2c90f24d;
+$colorH43: #2c90f2;
+$colorH44: #e6f4fd80;
+
+/* flex */
+.flex__center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
